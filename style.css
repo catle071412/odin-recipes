@@ -1,0 +1,34 @@
+* {
+    background-color: #C4A887;
+    color: black;
+    /*outline: 2px solid red; */
+}
+
+#Page-heading { /*The heading of every page essentially */
+    display: inline-block;
+    margin-left: 10px;
+    /* margin-right: 560px;*/
+}
+
+.home-header{
+    text-align: center;
+    padding: 200px;
+    background-color: #A6703A;
+}
+
+#Home { /*Home button*/
+    background-color: white;
+    padding: 15px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+/**#main-image {
+    display: flex;
+    margin: 20px;
+}
+
+#ingredients {
+    display: flex;
+    /*display: inline;
+} */
