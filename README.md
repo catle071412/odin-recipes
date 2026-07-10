@@ -13,5 +13,6 @@ Spinach Dip image: my picture!
 
 ## Technologies Used
 - HTML5
+- CSS
 - Git & Github
 
