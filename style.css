@@ -6,7 +6,6 @@
 
 #Page-heading { /*The heading of every page essentially */
     display: inline-block;
-    margin-left: 10px;
     /* margin-right: 560px;*/
 }
 
@@ -18,6 +17,7 @@
 
 #Home { /*Home button*/
     background-color: white;
+    float: right;
     padding: 15px;
     border: 2px solid black;
     margin: 10px;
